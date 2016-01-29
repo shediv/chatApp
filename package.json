@@ -1,5 +1,6 @@
 {
 	"name" : "myChat",
+	"author" : "shediv",
 	"version" : "0.10.40",
 	"private" : true,
 	"dependencies": {
